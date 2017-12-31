@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 /**
- * @author Avi Arviv <avia@gett.com>
+ * @author Avi Arviv 
  */
 public class InitWebTests {
 

@@ -14,7 +14,7 @@ import pages.HomePage;
 import utils.ScreenShot;
 
 /**
- * @author Avi Arviv <avia@gett.com>
+ * @author Avi Arviv 
  */
 public class WebTestsHelper extends InitWebTests {
 

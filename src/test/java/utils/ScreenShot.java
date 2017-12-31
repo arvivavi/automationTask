@@ -15,7 +15,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 /**
- * @author Avi Arviv <avia@gett.com>
+ * @author Avi Arviv 
  */
 public class ScreenShot {
 

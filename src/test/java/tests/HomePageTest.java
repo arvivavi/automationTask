@@ -8,7 +8,7 @@ import helpers.WebTestsHelper;
 import pages.HomePage;
 
 /**
-	 * @author Avi Arviv <avia@gett.com>
+	 * @author Avi Arviv 
 */
 public class HomePageTest extends WebTestsHelper{
 	
