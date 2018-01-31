@@ -27,6 +27,13 @@
 			<artifactId>selenium-java</artifactId>
 			<version>3.7.1</version>
 		</dependency>
+
+		<dependency>
+			<groupId>com.saucelabs</groupId>
+			<artifactId>saucerest</artifactId>
+			<version>1.0.35</version>
+			<scope>test</scope>
+		</dependency>
 	</dependencies>
 
 </project>
