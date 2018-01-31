@@ -1,5 +1,7 @@
-/Users/avi/Documents/workspace/automation.project/src/test/java/tests/HomePageTest.java
-/Users/avi/Documents/workspace/automation.project/src/test/java/infra/InitWebTests.java
-/Users/avi/Documents/workspace/automation.project/src/test/java/helpers/WebTestsHelper.java
-/Users/avi/Documents/workspace/automation.project/src/test/java/pages/HomePage.java
-/Users/avi/Documents/workspace/automation.project/src/test/java/utils/ScreenShot.java
+/Users/avi/Documents/workspace/automation.project/src/test/java/tests/Base.java
+/Users/avi/Documents/workspace/automation.project/src/test/java/tests/TestDynamicLoading.java
+/Users/avi/Documents/workspace/automation.project/src/test/java/pageobjects/Base.java
+/Users/avi/Documents/workspace/automation.project/src/test/java/tests/TestLogin.java
+/Users/avi/Documents/workspace/automation.project/src/test/java/pageobjects/DynamicLoading.java
+/Users/avi/Documents/workspace/automation.project/src/test/java/pageobjects/Login.java
+/Users/avi/Documents/workspace/automation.project/src/test/java/tests/Config.java
